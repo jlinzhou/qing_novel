@@ -1,0 +1,22 @@
+
+log:
+  filename: ./logs/novel.log
+  level: info
+  maxsize: 100
+  maxdays: 365
+server:
+  mode: release
+  port: 3001
+  read_timeout: 60
+  write_timeout: 60
+content_sql:
+  username: root
+  password: 123456
+  host: 127.0.0.1
+  database: book
+  debug: true
+  maxOpenConns: 500
+  maxLifetime: 0
+  maxIdleConns: 500
+  engine: mysql
+

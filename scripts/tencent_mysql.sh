@@ -1,0 +1,1 @@
+/usr/local/bin/mysql -h sh-cdb-ha5yxvae.sql.tencentcdb.com -P60603 -uroot -pzjl61728390a654321B  -A
