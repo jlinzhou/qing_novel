@@ -25,7 +25,7 @@
 
 #### 1. 书城进程
 
-* 需要mysql数据库，运行data/book.sql,创建并插入初始数据。[只有一本小说数据(牧神记),全部小说数据下载链接：[data.sql]https://novel-zjl2.oss-cn-beijing.aliyuncs.com/images/book2.sql?Expires=1609591883&OSSAccessKeyId=TMP.3Kj6BfLVMDFF6C7s3v3sppC8m6zyRcXzoU2CDYZXeRaNWCW3UqhWuXXT87Ymg925TnLr8VZwkShYsQESaBzLr4c6TRVza3&Signature=0Gxijvy46qX%2F2OqpgZZKJG6cMTo%3D]
+* 需要mysql数据库，运行data/book.sql,创建并插入初始数据。[只有一本小说数据(牧神记),全部小说数据下载链接：[data.sql](https://novel-zjl2.oss-cn-beijing.aliyuncs.com/images/book2.sql?Expires=1609591883&OSSAccessKeyId=TMP.3Kj6BfLVMDFF6C7s3v3sppC8m6zyRcXzoU2CDYZXeRaNWCW3UqhWuXXT87Ymg925TnLr8VZwkShYsQESaBzLr4c6TRVza3&Signature=0Gxijvy46qX%2F2OqpgZZKJG6cMTo%3D)]
 * config/config.yaml 的数据库参数需要配置
 * ```go run main.go```
 
