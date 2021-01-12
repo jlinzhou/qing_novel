@@ -9,7 +9,7 @@
 ```
 
 ## 部分页面展示
-
+http://49.234.71.174/home
 
 ![avatar](https://novel-zjl2.oss-cn-beijing.aliyuncs.com/images/QQ20210102-165059%402x.png?Expires=1609592030&OSSAccessKeyId=TMP.3Kj6BfLVMDFF6C7s3v3sppC8m6zyRcXzoU2CDYZXeRaNWCW3UqhWuXXT87Ymg925TnLr8VZwkShYsQESaBzLr4c6TRVza3&Signature=fQ9M%2BesdE3pamsazmuJMNjdYhbY%3D)
 
